@@ -9,6 +9,7 @@
 * (2016) [Action Recognition using Visual Attention](https://arxiv.org/pdf/1511.04119v3.pdf), [[code1]](https://github.com/gaoqianmiao/Summer-project), [[code2]](https://github.com/kracwarlock/action-recognition-visual-attention)
 
 ### Gesture Recognition
+* (2019) [Spatiotemporalrecursivehypersphericclassificationwithan applicationtodynamicgesturerecognition](https://reader.elsevier.com/reader/sd/pii/S0004370218307513?token=D321CFFC2F6546BB36B408D088332C8EC6C78D10BBBE086191E86C3ED30A84BD09EBDF5071F333AAE673E15F6B7555A3)
 * (2015) [Hand Gesture Recognition with 3D Convolutional Neural Networks](https://research.nvidia.com/sites/default/files/pubs/2015-06_Hand-Gesture-Recognition/CVPRW2015-3DCNN.pdf)
 
 ### Temporal Localization
@@ -26,6 +27,7 @@
 * (2018) [Weakly and Semi Supervised Human Body Part Parsing via Pose-Guided Knowledge Transfer](https://arxiv.org/pdf/1805.04310v1.pdf)
 
 ### Sign Language Translation
+* (2019) [A review of hand gesture and sign language recognition techniques](https://link.springer.com/content/pdf/10.1007%2Fs13042-017-0705-5.pdf)
 
 ### General Deep Learning Methods from Different Tasks
 * (2019) [TRANSFORMER-XL: Attentive Language Models Beyond a Fixed-Llength Context](https://arxiv.org/pdf/1901.02860.pdf), [[code]](https://github.com/kimiyoung/transformer-xl), [deepmind](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
