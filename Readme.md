@@ -6,6 +6,7 @@
 ### Action Recognition
 * [Action Recognition using Visual Attention](https://arxiv.org/pdf/1511.04119v3.pdf)[2016][code1](https://github.com/gaoqianmiao/Summer-project)[code2](https://github.com/kracwarlock/action-recognition-visual-attention)
 * [Action Tubelet Detector for Spatio-Temporal Action Localization](https://arxiv.org/pdf/1705.01861v3.pdf)[2017]
+* [DenseImage Network: Video Spatial-Temporal Evolution Encoding and Understanding](https://arxiv.org/pdf/1805.07550.pdf)[2018]
 
 ### Gesture Recognition
 * [Hand Gesture Recognition with 3D Convolutional Neural Networks](https://research.nvidia.com/sites/default/files/pubs/2015-06_Hand-Gesture-Recognition/CVPRW2015-3DCNN.pdf)[2015]
@@ -27,4 +28,8 @@
 ### Sign Language Translation
 
 ### General Deep Learning Methods from Different Tasks
-* [TRANSFORMER-XL: Attentive Language Models Beyond a Fixed-Llength Context](https://arxiv.org/pdf/1901.02860.pdf)[2019][code](https://github.com/kimiyoung/transformer-xl)
+* [TRANSFORMER-XL: Attentive Language Models Beyond a Fixed-Llength Context](https://arxiv.org/pdf/1901.02860.pdf)[2019][code](https://github.com/kimiyoung/transformer-xl)[deepmind](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
+* [](https://www.sciencedirect.com/science/article/pii/S0925231217315928)
+
+###Pose Estimation
+* [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1812.08008.pdf) [2018]
