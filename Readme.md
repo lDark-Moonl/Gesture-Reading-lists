@@ -29,7 +29,7 @@
 
 ### General Deep Learning Methods from Different Tasks
 * [TRANSFORMER-XL: Attentive Language Models Beyond a Fixed-Llength Context](https://arxiv.org/pdf/1901.02860.pdf)[2019][code](https://github.com/kimiyoung/transformer-xl)[deepmind](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
-* [](https://www.sciencedirect.com/science/article/pii/S0925231217315928)
+* [Incremental on-line learning: A review and comparison of state of the art algorithm](https://www.sciencedirect.com/science/article/pii/S0925231217315928)
 
 ###Pose Estimation
 * [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1812.08008.pdf) [2018]
