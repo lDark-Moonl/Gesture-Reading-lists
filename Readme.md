@@ -6,11 +6,11 @@
 ### Action Recognition
 * (2018) [DenseImage Network: Video Spatial-Temporal Evolution Encoding and Understanding](https://arxiv.org/pdf/1805.07550.pdf)
 * (2017) [Action Tubelet Detector for Spatio-Temporal Action Localization](https://arxiv.org/pdf/1705.01861v3.pdf)
-* (2016) [Action Recognition using Visual Attention](https://arxiv.org/pdf/1511.04119v3.pdf), [[code1]](https://github.com/gaoqianmiao/Summer-project), [[code2]](https://github.com/kracwarlock/action-recognition-visual-attention)
+* (2016) [Action Recognition using Visual Attention](https://arxiv.org/pdf/1511.04119v3.pdf), [[**code1**]](https://github.com/gaoqianmiao/Summer-project), [[**code2**]](https://github.com/kracwarlock/action-recognition-visual-attention)
 
 ### Gesture Recognition
 * (2019) [Spatiotemporalrecursivehypersphericclassificationwithan applicationtodynamicgesturerecognition](https://reader.elsevier.com/reader/sd/pii/S0004370218307513?token=D321CFFC2F6546BB36B408D088332C8EC6C78D10BBBE086191E86C3ED30A84BD09EBDF5071F333AAE673E15F6B7555A3)
-* (2019) [Real-time Hand Gesture Detection and Classification Using Convolutional Neural Networks](https://arxiv.org/pdf/1901.10323.pdf)
+* (2019) [Real-time Hand Gesture Detection and Classification Using Convolutional Neural Networks](https://arxiv.org/pdf/1901.10323.pdf) [[**Code**]](https://github.com/ahmetgunduz/Real-time-GesRec)
 * (2015) [Hand Gesture Recognition with 3D Convolutional Neural Networks](https://research.nvidia.com/sites/default/files/pubs/2015-06_Hand-Gesture-Recognition/CVPRW2015-3DCNN.pdf)
 
 
