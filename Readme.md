@@ -10,7 +10,9 @@
 
 ### Gesture Recognition
 * (2019) [Spatiotemporalrecursivehypersphericclassificationwithan applicationtodynamicgesturerecognition](https://reader.elsevier.com/reader/sd/pii/S0004370218307513?token=D321CFFC2F6546BB36B408D088332C8EC6C78D10BBBE086191E86C3ED30A84BD09EBDF5071F333AAE673E15F6B7555A3)
+* (2019) [Real-time Hand Gesture Detection and Classification Using Convolutional Neural Networks](https://arxiv.org/pdf/1901.10323.pdf)
 * (2015) [Hand Gesture Recognition with 3D Convolutional Neural Networks](https://research.nvidia.com/sites/default/files/pubs/2015-06_Hand-Gesture-Recognition/CVPRW2015-3DCNN.pdf)
+
 
 ### Temporal Localization
 * (2018) [BSN: Boundary Sensitive Network for Temporal Action Proposal Generation](https://arxiv.org/pdf/1806.02964v3.pdf), [[code]](https://github.com/wzmsltw/BSN-boundary-sensitive-network)
