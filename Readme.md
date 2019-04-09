@@ -11,6 +11,8 @@
 ### Gesture Recognition
 * (2019) [Spatiotemporalrecursivehypersphericclassificationwithan applicationtodynamicgesturerecognition](https://reader.elsevier.com/reader/sd/pii/S0004370218307513?token=D321CFFC2F6546BB36B408D088332C8EC6C78D10BBBE086191E86C3ED30A84BD09EBDF5071F333AAE673E15F6B7555A3)
 * (2019) [Real-time Hand Gesture Detection and Classification Using Convolutional Neural Networks](https://arxiv.org/pdf/1901.10323.pdf) [[**Code**]](https://github.com/ahmetgunduz/Real-time-GesRec)
+* (2018) [Gesture Recognition: Focus on the Hands](http://openaccess.thecvf.com/content_cvpr_2018/papers/Narayana_Gesture_Recognition_Focus_CVPR_2018_paper.pdf)
+* (2017) [Multimodal Gesture Recognition Based on the ResC3D Network](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w44/Miao_Multimodal_Gesture_Recognition_ICCV_2017_paper.pdf)
 * (2015) [Hand Gesture Recognition with 3D Convolutional Neural Networks](https://research.nvidia.com/sites/default/files/pubs/2015-06_Hand-Gesture-Recognition/CVPRW2015-3DCNN.pdf)
 
 
