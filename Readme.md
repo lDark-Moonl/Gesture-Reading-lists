@@ -9,6 +9,7 @@
 * (2016) [Action Recognition using Visual Attention](https://arxiv.org/pdf/1511.04119v3.pdf), [[**code1**]](https://github.com/gaoqianmiao/Summer-project), [[**code2**]](https://github.com/kracwarlock/action-recognition-visual-attention)
 
 ### Gesture Recognition
+* (2019) [Online Recognition of Incomplete Gesture Data to Interface Collaborative Robots](https://ieeexplore.ieee.org/abstract/document/8614436)
 * (2019) [Spatiotemporalrecursivehypersphericclassificationwithan applicationtodynamicgesturerecognition](https://reader.elsevier.com/reader/sd/pii/S0004370218307513?token=D321CFFC2F6546BB36B408D088332C8EC6C78D10BBBE086191E86C3ED30A84BD09EBDF5071F333AAE673E15F6B7555A3)
 * (2019) [Real-time Hand Gesture Detection and Classification Using Convolutional Neural Networks](https://arxiv.org/pdf/1901.10323.pdf) [[**Code**]](https://github.com/ahmetgunduz/Real-time-GesRec)
 * (2018) [Skeleton-based Gesture Recognition Using Several Fully Connected Layers with Path Signature Features and Temporal Transformer Module](https://arxiv.org/pdf/1811.07081v2.pdf) [[**Code**]](https://github.com/LiChenyang-Github/Temporal-Transformer-Module)
