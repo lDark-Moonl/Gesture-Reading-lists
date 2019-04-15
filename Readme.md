@@ -5,6 +5,7 @@
 
 ### Action Recognition
 * (2018) [DenseImage Network: Video Spatial-Temporal Evolution Encoding and Understanding](https://arxiv.org/pdf/1805.07550.pdf)
+* (2017) [Temporal Convolutional Networks for Action Segmentation and Detection](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lea_Temporal_Convolutional_Networks_CVPR_2017_paper.pdf)
 * (2017) [Action Tubelet Detector for Spatio-Temporal Action Localization](https://arxiv.org/pdf/1705.01861v3.pdf)
 * (2016) [Action Recognition using Visual Attention](https://arxiv.org/pdf/1511.04119v3.pdf), [[**code1**]](https://github.com/gaoqianmiao/Summer-project), [[**code2**]](https://github.com/kracwarlock/action-recognition-visual-attention)
 
@@ -42,5 +43,6 @@
 * (2019) [TRANSFORMER-XL: Attentive Language Models Beyond a Fixed-Llength Context](https://arxiv.org/pdf/1901.02860.pdf), [[code]](https://github.com/kimiyoung/transformer-xl), [deepmind](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
 * (2018) [Incremental on-line learning: A review and comparison of state of the art algorithm](https://www.sciencedirect.com/science/article/pii/S0925231217315928)
 
-### Pose Estimation
+### Pose and Motion Estimation
 * (2018) [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1812.08008.pdf)
+* (2019) [Modeling Human Motion with Quaternion-based Neural Networks](https://arxiv.org/pdf/1901.07677.pdf)
