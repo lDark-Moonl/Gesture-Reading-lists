@@ -1,7 +1,7 @@
 ###
 ## Action and Gesture Recognition Reading List
 ### Data Augmentation
-* (2017) [Improving Deep Learning using Generic Data Augmentation](/Reading%20notes/test.md) #(https://arxiv.org/pdf/1708.06020.pdf)
+* (2017) [Improving Deep Learning using Generic Data Augmentation] %(https://arxiv.org/pdf/1708.06020.pdf)
 
 ### Action Recognition
 * (2018) [DenseImage Network: Video Spatial-Temporal Evolution Encoding and Understanding](https://arxiv.org/pdf/1805.07550.pdf)
